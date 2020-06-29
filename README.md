@@ -27,6 +27,10 @@
 * ctrl 누를채로 마우스로 여러 라인 클릭하면, 한번에 여러 줄에 추가 가능 ! 
 # <ul> : li태그의 부모 ul. 경계를 구분 짓기 위해, 두 태그는 항상 같이 다닌다 .  unordered list의 약자.
 # <ol> : 자동 넘버 태깅. 1.2.3.  ordered list의 약자.
+# <a> : 링크걸기 / hyper reference 약자 href / 새로운창에서 열기 target="_blank" / 툴팁 적기 title="툴팁내용" 
+  ex) <a href="https://www.youtube.com/watch?v=V3pkC1hE-as&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=14" target="_blank" title="html15 specification" > 
+
+
 
 많이쓰는 태그 순위 
 <head>
