@@ -8,8 +8,8 @@
 
 #웹 페이지에서, 소스를 보고 싶을 땐 : 웹브라우저에서 오른쪽 마우스 버튼 누른 뒤, 페이지 소스 클릭 또는 소스보기
 # 약 150개정도의 태그가 있지만, 웬만한 페이지는, 25개 정도의 태그만으로도 다 만들 수 있다고 함. (통계) 태그 25개 정도 알면 평균은 간다..는 ㅎㅎㅎ
-
 # 무료 이미지 소스 사이트 : unsplash.com
+# duplicate 기능을 통해서, 페이지 복사해서 안에 내용 바꾸기
 
 
 
@@ -29,6 +29,7 @@
 # <ol> : 자동 넘버 태깅. 1.2.3.  ordered list의 약자.
 # <a>  : 링크걸기 / hyper reference 약자 href / 새로운창에서 열기 target="_blank" / 툴팁 적기 title="툴팁내용" 
        ex) <a href="https://www.youtube.com/watch?v=V3pkC1hE-as&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb&index=14" target="_blank" title="html15 specification" > 
+
 
 
 
