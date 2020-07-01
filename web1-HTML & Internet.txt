@@ -17,7 +17,7 @@
     
 # Internet & Web 의 차이점 (ex) 인터넷이 도로라면, 웹은 그 위를 달리는 차 한대
   web은 swiss에서 태어남. http://info.cern.ch - home of the first website (웹의 첫 모습!웹의 메소포타미아)
-
+  1960년 internet - 1990 web 이 생겨나면서, 급격한 성장이 일어남. 원시웹 primitive web.
 
 
 
