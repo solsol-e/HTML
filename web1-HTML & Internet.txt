@@ -16,7 +16,7 @@
     이렇게 body 안에 list 별로 href 걸어두고,  메뉴 쪽에서 duplicate 눌러서 여러개로 복사한 다음, 그 페이지 마다 내용을 바꿔주면 됨! 
     
 # Internet & Web 의 차이점 (ex) 인터넷이 도로라면, 웹은 그 위를 달리는 차 한대
-  web은 swiss에서 태어남.
+  web은 swiss에서 태어남. http://info.cern.ch - home of the first website (웹의 첫 모습!웹의 메소포타미아)
 
 
 
