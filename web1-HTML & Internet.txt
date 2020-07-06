@@ -30,6 +30,10 @@
 # <p>  : 단락 _ br 태그 보다는, p 태그가 더좋다! 
 # <img>: 이미지 삽입   ex) <img src="coding.jpg" width="100%">  
          ex) src="coding.jpg" width="100%"  이렇게 생긴 부분을 속성 ATTRIBUTE라고 한다. 속성은 위치는 상관없다. 
+         ex 2) <img src="cat.jpg" alt="고양이">
+               <img   ==> 이미지 파일을 웹문서에 삽입, 임베디드 합니다.
+                src="cat.jpg"     ==> src(이미지 소스)는 cat.jpg 이고,
+                alt ="고양이"      ==> 만약 이미지가 보이지 않는 환경이라면 "고양이"라는 텍스트로 alt(대체)하여 표시합니다.
   
 # <li> : 목차 list의 앞 두자. 
         * ctrl 누를채로 마우스로 여러 라인 클릭하면, 한번에 여러 줄에 추가 가능 ! 
