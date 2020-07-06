@@ -19,7 +19,15 @@
   web은 swiss에서 태어남. http://info.cern.ch - home of the first website (웹의 첫 모습!웹의 메소포타미아)
   1960년 internet - 1990 web 이 생겨나면서, 급격한 성장이 일어남. 원시웹 primitive web.
 
-
+# 로그인 화면 만들기 
+  ID <input type="text" name="ID" placeholder="아이디를 입력해주세요" maxlength="10" size="20"><br/>
+ -> placeholder 를 통해 박스 안에 무엇을 입력하면 될지 가이드를 줄 수 있다. 
+ -> maxlength를 통해 최대 몇자 까지 가능한지 설정 가능.   
+ -> size를 통해 박스 크기를 정할 수 있다.
+  PASSWORD <input type="password" name="password" > <p>
+  <input type="submit" name="login" value="로그인">
+ -> Submit 속성은 기본적으로 제출이라는 박스가 생기고 입력된 내용을 전송하는 목적, button  속석은 빈 박스가 생기고 그저 박스일뿐.  박스에 이름을 붙이려면 value 값 지정.
+ 
 
 <태그 문법>
 # <strong> </strong> : 글자 진하게 강조하기  
